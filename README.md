@@ -5,13 +5,13 @@
 ## Installation
 
 ``` php
-composer require wamesk/laravel-nova-nice-price
+composer require pppcreative/laravel-nova-nice-price
 ```
 
 ## Usage
 
 ``` php
-use Wame\PriceNiceField\PriceNiceField;
+use Pppcreative\PriceNiceField\PriceNiceField;
 
 PriceNiceField::make(__('cena'), 'price'),
 ```

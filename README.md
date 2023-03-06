@@ -5,7 +5,7 @@
 ## Installation
 
 ``` php
-composer require pppcreative/laravel-nova-nice-price
+composer require pppcreative/price-nice-field
 ```
 
 ## Usage
